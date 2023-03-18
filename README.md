@@ -10,6 +10,26 @@
 </p>
 
 
+
+<!-- <details>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <br/>
+
+![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
+![GRPC](https://img.shields.io/badge/GRPC-4285F4.svg?&style=flat&logo=google&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Puppet](https://img.shields.io/badge/PUPPET-FFAE1A.svg?&style=flat&logo=puppet&logoColor=black)&nbsp;
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
+
+</details> -->
+
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
